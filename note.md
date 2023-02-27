@@ -1,6 +1,7 @@
 # Terms
 
 Repository (Rep): Thư mục dự án hay là một cái kho.
+Branch: Nhánh, nhánh mặc định của 1 repo là Main/Master.
 
 # Commands
 
@@ -8,3 +9,8 @@ Repository (Rep): Thư mục dự án hay là một cái kho.
 - git status: Cho ta thấy được trạng thái của dự án.
 - git add: Lưu lại thời điểm hiện tại của dự án.
 - git reset: Reset lại các file đã đưa vào staging.
+- git commit: Commit các file đã add vào trong stagging.
+- git log: Kiểm tra lịch sử các file.
+- git log --oneline: Một cách kiểm tra gọn hơn, ít chi tiết hơn.
+- git checkout {branch name}: Thay đổi nhánh của git.
+- git checkout -b {branch name}:
