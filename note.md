@@ -20,3 +20,9 @@ Remote
 - git merge: Sát nhập các file ở các branch khác nhau vào master branch.
 - git branch -d {branch name}: Xoá một branch.
 - git push: Đẩy local repo lên remote repo
+- git remote add origin {repo url}
+- git push origin {branch}
+- git clone {repo url}
+- git fetch origin 
+- git checkout -b {branch name} origin {branch name}
+- git ignore
