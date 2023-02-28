@@ -3,6 +3,8 @@
 Repository (Rep): Thư mục dự án hay là một cái kho.
 Branch: Nhánh, nhánh mặc định của 1 repo là Main/Master.
 Conflict: Xung đột.
+Local
+Remote
 
 # Commands
 
@@ -17,3 +19,4 @@ Conflict: Xung đột.
 - git checkout -b {branch name}:
 - git merge: Sát nhập các file ở các branch khác nhau vào master branch.
 - git branch -d {branch name}: Xoá một branch.
+- git push: Đẩy local repo lên remote repo
