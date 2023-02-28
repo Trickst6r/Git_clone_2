@@ -2,6 +2,7 @@
 
 Repository (Rep): Thư mục dự án hay là một cái kho.
 Branch: Nhánh, nhánh mặc định của 1 repo là Main/Master.
+Conflict: Xung đột.
 
 # Commands
 
