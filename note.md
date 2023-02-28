@@ -14,3 +14,5 @@ Branch: Nhánh, nhánh mặc định của 1 repo là Main/Master.
 - git log --oneline: Một cách kiểm tra gọn hơn, ít chi tiết hơn.
 - git checkout {branch name}: Thay đổi nhánh của git.
 - git checkout -b {branch name}:
+- git merge: Sát nhập các file ở các branch khác nhau vào master branch.
+- git branch -d {branch name}: Xoá một branch.
